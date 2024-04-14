@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: 李然
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Ran Li
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Ran
+last_name: Li
 
 # Status emoji
 status:
@@ -17,12 +17,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Director of Cloud Infrastructure
+role: Research Associate
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: GenCoin
-    url: https://www.example.com/
+    url: https://www.ie.cuhk.edu.hk/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
